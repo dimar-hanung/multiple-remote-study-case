@@ -6,7 +6,7 @@ Feel free to explore and modify the code as needed.
 ## for loop
 
 ```javascript
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < 2; i++) {
   console.log("Iteration number: " + i);
 }
 ```
