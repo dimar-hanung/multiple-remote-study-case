@@ -23,3 +23,7 @@ if (number > 0) {
   console.log("The number is zero.");
 }
 ```
+
+## Security Notice
+
+Please be aware that this code is provided for educational purposes only.
